@@ -1,6 +1,7 @@
 package com.lcc.service.Article;
 
 import com.lcc.domain.ArticleInfo;
+import com.lcc.web.controller.articlemanage.ArticleInfoFormBean;
 
 import java.util.List;
 
