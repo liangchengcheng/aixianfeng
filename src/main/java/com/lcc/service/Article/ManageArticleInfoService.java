@@ -1,5 +1,9 @@
 package com.lcc.service.Article;
 
+import com.lcc.domain.ArticleInfo;
+
+import java.util.List;
+
 /**
  * Created by lcc on 2017/1/14.
  */
