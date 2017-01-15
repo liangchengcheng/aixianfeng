@@ -55,7 +55,7 @@ public class ManageCategoryServiceImpl implements ManageCategoryService{
         return simpleCategoryInfoList;
     }
 
-    // TODO: 2017/1/15 此处需要做修改? 
+    // TODO: 2017/1/15 此处需要做修改?
     public int updateBySlug(CategoryInfo categoryInfo){
         categoryInfoMapper.updateBySlug(categoryInfo);
         return 0;
