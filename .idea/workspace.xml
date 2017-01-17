@@ -2,151 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7b93345-8f85-44e2-a791-b796dc2c4d27" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/font/anjingchen.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/font/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/font/xiaofeng.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/about_me.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/author_header.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/circle-h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/csdn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/day_content_backgrund.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/mobile_slider_bar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/pblog_icon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/record_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/record_background_bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/record_background_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/resume/honor_reward_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/resume/li_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/resume/open_source_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/resume/person_info_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/resume/pro_skill_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/resume/self_evaluation_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/resume/work_experience_icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/search_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/image/zhihu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/web/include/footer.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/web/include/header.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/web/include/index_mobile_header.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/web/include/namespace.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/about/day_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/about/night_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/archives/day_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/archives/night_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/article/day_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/article/night_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/book/day_detail.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/book/day_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/book/night_detail.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/book/night_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/category/day_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/category/night_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/day-pc-main-4b3b2e648a.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/include/day_index_global.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/include/global.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/include/index_global.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/include/index_man_header.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/include/index_mobile_global.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/include/night_index_global.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/index/day_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/index/night_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/manage/about_edit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/manage/article_add.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/manage/article_list.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/manage/book_edit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/manage/book_list.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/manage/category_list.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/manage/pic_list.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/manage/record_list.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/mobile/about_mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/mobile/article_mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/mobile/article_mobile_list.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/mobile/read_mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/mobile/read_mobile_detail.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/mobile/record_mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/mobile/time_line.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/night-pc-main-4e6b1e8763.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/record/day_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/record/night_layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/resume/resume_mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/css/resume/resume_pc.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/js/angular-plugins.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/js/client-js.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/js/highlight.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/js/lib.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/js/loading-bar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/plugins/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/plugins/highlight.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/plugins/loading-bar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/assets/rev/rev-manifest.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/controllers/AboutController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/controllers/ArchivesController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/controllers/ArchivesTimeStampController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/controllers/ArticleController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/controllers/BookController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/controllers/CategoryController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/controllers/CategorySlugController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/controllers/IndexController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/controllers/ReadController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/controllers/RecordController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/manage/book_list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/mobile/analytics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/mobile/global_mobile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/plugins/SliderBar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/plugins/angular-animate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/plugins/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/plugins/angular-sanitize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/plugins/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/plugins/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/plugins/marked.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/routes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/js/services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/about/day_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/about/night_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/archives/day_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/archives/night_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/article/day_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/article/night_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/book/day_detail.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/book/day_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/book/night_detail.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/book/night_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/category/day_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/category/night_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/include/day_index_global.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/include/global.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/include/index_man_header.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/include/index_mobile_global.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/include/night_index_global.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/index/day_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/index/night_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/manage/about_edit.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/manage/article_add.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/manage/article_list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/manage/book_edit.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/manage/book_list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/manage/category_list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/manage/pic_list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/manage/record_list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/mobile/about_mobile.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/mobile/article_mobile.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/mobile/article_mobile_list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/mobile/read_mobile.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/mobile/read_mobile_detail.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/mobile/record_mobile.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/mobile/time_line.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/record/day_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/record/night_layout.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/resume/resume_mobile.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/resources/less/resume/resume_pc.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/index_man_header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/index_second_header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/namespace.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="aixianfeng.iws" />
@@ -170,41 +28,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="footer.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/web/include/footer.jsp">
+      <file leaf-file-name="index_man_header.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/index_man_header.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
+            <state relative-caret-position="91">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index_mobile_header.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/web/include/index_mobile_header.jsp">
+      <file leaf-file-name="index_second_header.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/index_second_header.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="39" />
+            <state relative-caret-position="105">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="namespace.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/web/include/namespace.jsp">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/namespace.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="60" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/web/include/header.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -236,10 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/reacord/RecordService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/reacord/RecordServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/book/BookInfoVO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/Article/BookTableVO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/book/BookTableVO.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/book/BookInfoService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lcc/service/book/BookInfoServiceImpl.java" />
@@ -287,6 +131,10 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/jsp/web/include/footer.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/jsp/web/include/index_mobile_header.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/jsp/web/include/namespace.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/index_man_header.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/index_second.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/index_second_header.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/namespace.jsp" />
       </list>
     </option>
   </component>
@@ -304,7 +152,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="181" />
+    <option name="x" value="319" />
     <option name="y" value="28" />
     <option name="width" value="1244" />
     <option name="height" value="730" />
@@ -334,7 +182,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -406,8 +254,30 @@
               <option name="myItemId" value="jsp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aixianfeng" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aixianfeng" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jsp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -433,7 +303,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
+              <option name="myItemId" value="manage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -441,32 +311,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aixianfeng" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aixianfeng" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -937,15 +785,16 @@
       <workItem from="1484222551089" duration="903000" />
       <workItem from="1484223456955" duration="3104000" />
       <workItem from="1484264242415" duration="3745000" />
-      <workItem from="1484294953588" duration="21891000" />
+      <workItem from="1484294953588" duration="22047000" />
+      <workItem from="1484608766471" duration="1437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32094000" />
+    <option name="totallyTimeSpent" value="33687000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="181" y="28" width="1244" height="730" extended-state="0" />
+    <frame x="319" y="28" width="1244" height="730" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -955,9 +804,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -968,13 +816,14 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -998,55 +847,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/service/category/ManageCategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="57" column="31" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/web/intercept/GlobalInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/web/intercept/PaginationInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="55" column="27" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1484466748000" expanded="true" signature="2587:2630" ph="select count... missingValue" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/web/controller/aboutmanage/ManageAboutController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#572#573#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lcc/web/controller/articlemanage/ManageArticleController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="50" column="47" selection-start-line="50" selection-start-column="45" selection-end-line="50" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1054,10 +858,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
-          <folding>
-            <element signature="e#943#944#0" expanded="false" />
-            <element signature="e#981#982#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1065,9 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="55" column="24" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1075,9 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1085,9 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1095,7 +886,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1103,9 +893,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-24">
           <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1113,9 +900,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-324">
           <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1123,9 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1133,9 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1143,9 +921,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1153,9 +928,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="916">
           <caret line="82" column="26" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1163,9 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
           <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1173,9 +942,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1183,13 +949,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="841">
           <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1120#1121#0" expanded="false" />
-            <element signature="e#1160#1161#0" expanded="false" />
-            <element signature="e#1310#1311#0" expanded="false" />
-            <element signature="e#1350#1351#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1197,7 +956,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1205,11 +963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#911#912#0" expanded="false" />
-            <element signature="e#953#954#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1217,7 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1225,7 +977,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1233,7 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1241,7 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1270,7 +1019,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1278,9 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1288,9 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1298,7 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1306,7 +1047,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1314,7 +1054,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1322,7 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-260">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1330,7 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1378,9 +1115,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1388,7 +1122,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1397,7 +1130,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1407,7 +1140,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1416,9 +1149,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1448,7 +1178,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/web/include/footer.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
+        <state relative-caret-position="570">
           <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
           <folding />
         </state>
@@ -1464,8 +1194,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/web/include/namespace.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="60" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="60" />
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/structural.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/index_man_header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/index_second_header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/manage/include/namespace.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding />
         </state>
       </provider>
