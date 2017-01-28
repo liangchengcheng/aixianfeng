@@ -14,12 +14,12 @@
     </div>
     <div class="menu_bar">
         <ul>
-            <li><a href="${staticDomain}/"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
-            <li><a href="${staticDomain}/archives"><i class="fa fa-calendar" aria-hidden="true"></i> Archives</a></li>
-            <li><a href="${staticDomain}/category"><i class="fa fa-align-justify" aria-hidden="true"></i> Categories</a></li>
-            <li><a href="${staticDomain}/read"><i class="fa fa-book" aria-hidden="true"></i> Books</a></li>
-            <li><a href="${staticDomain}/record/detail"><i class="fa fa-camera" aria-hidden="true"></i> Recorder</a></li>
-            <li><a href="${staticDomain}/about"><i class="fa fa-info-circle" aria-hidden="true"></i> About</a></li>
+            <li><a href="${staticDomain}/"><i class="fa fa-home" aria-hidden="true"></i> 主页</a></li>
+            <li><a href="${staticDomain}/archives"><i class="fa fa-calendar" aria-hidden="true"></i> 文章</a></li>
+            <li><a href="${staticDomain}/category"><i class="fa fa-align-justify" aria-hidden="true"></i> 分类</a></li>
+            <li><a href="${staticDomain}/read"><i class="fa fa-book" aria-hidden="true"></i> 书籍</a></li>
+            <li><a href="${staticDomain}/record/detail"><i class="fa fa-camera" aria-hidden="true"></i> 记录</a></li>
+            <li><a href="${staticDomain}/about"><i class="fa fa-info-circle" aria-hidden="true"></i> 关于</a></li>
         </ul>
         <ul>
             <li><a href="http://blog.csdn.net/u010800530" style="color: #FFF;"><span class="csdn"></span> BLOG</a></li>
