@@ -7,20 +7,23 @@
     <meta name="renderer" content="webkit">
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-    <title>Detail | Pelin的个人博客</title>
+    <title>Home | Pelin的个人博客</title>
     <link rel="icon" href="${imageDomain}/pblog_icon.ico"/>
     <link href="${cssDomain}/mobile/article_mobile_list.css" rel="stylesheet"/>
-    <link href="${cssPlugins}/font-awesome.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="${cssPlugins}/font-awesome.min.css" />
     <script src="${jsPlugins}/jquery.min.js" type="text/javascript"></script>
     <script src="${staticDomain}/resources/js/mobile/analytics.js" type="text/javascript"></script>
 </head>
+
+
+
+
+
 <body>
-
-
 <div id="Wrapper">
     <%@ include file="../include/index_mobile_header.jsp"%>
     <div id="Content">
-        <c:forEach var="articleInfo" items="${articleInfoVOList}" varStatus="status">
+        <c:forEach var="articleInfo" items="${pagination.items}" varStatus="status">
 
 
             <div class="article">
@@ -32,14 +35,12 @@
                     </span>
                     <span class="category"><a href="${staticDomain}/category/${articleInfo.categorySlug}/list">${articleInfo.categoryName}</a></span>
                 </div>
-
-
                 <div class="article-description">${articleInfo.description}</div>
-                <span class="continue-read"><a href="${staticDomain}/article/${articleInfo.articleSlug}/detail">Continue reading</a></span>
+                <span class="continue-read"><a href="${staticDomain}/article/${articleInfo.articleSlug}/detail">Read More</a></span>
             </div>
         </c:forEach>
     </div>
 </div>
-<script type="text/javascript" src="${staticDomain}/resources/js/mobile/global_mobile.js"></script>
+<script type="text/javascript" src="${jsDomain}/mobile/global_mobile.js"></script>
 </body>
 </html>
