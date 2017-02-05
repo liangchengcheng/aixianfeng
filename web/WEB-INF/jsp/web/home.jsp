@@ -34,7 +34,7 @@
     <div class="content" ng-view></div>
 
     <%@ include file="include/header.jsp" %>
-    
+
 </div>
 
 </body>

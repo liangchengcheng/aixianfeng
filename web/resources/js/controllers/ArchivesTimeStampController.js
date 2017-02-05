@@ -31,3 +31,16 @@ function initializeArchivesTimeStamp() {
 
     $(document).attr("title","归档 | Pelin的个人博客");
 }
+
+
+function initializeMenu() {
+    $(".menu_bar ul li").each(function (index) {
+        if (index == 1){
+            $(this).addClass("active");
+        }else {
+            $(this).removeClass("active");
+        }
+    });
+
+    $(document).attr("title","这个是标题");
+}
