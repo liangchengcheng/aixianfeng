@@ -31,6 +31,7 @@ public class GenerateUtils {
         if (!StringUtils.isBlank(ip) && !"unknown".equalsIgnoreCase(ip)) {
             return ip;
         }
+
         ip = request.getHeader("X-Forwarded-For");
         if (!StringUtils.isBlank(ip) && !"unknown".equalsIgnoreCase(ip)) {
             // 多次反向代理后会有多个IP值，第一个为真实IP。

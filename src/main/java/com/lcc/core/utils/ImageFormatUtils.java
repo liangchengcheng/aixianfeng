@@ -14,7 +14,8 @@ public class ImageFormatUtils {
 
     private static Logger logger = LoggerFactory.getLogger(ImageFormatUtils.class);
 
-    private static Font font = new Font(Font.MONOSPACED, Font.BOLD, 16);// 添加字体的属性设置
+    // 添加字体的属性设置
+    private static Font font = new Font(Font.MONOSPACED, Font.BOLD, 16);
 
     /**
      * 为图片增加水印

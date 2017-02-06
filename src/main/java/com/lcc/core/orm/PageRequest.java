@@ -5,19 +5,19 @@ package com.lcc.core.orm;
  */
 public class PageRequest {
 
-    protected int pageNo = 1;
+    private int pageNo = 1;
 
-    protected int pageSize = 10;
+    private int pageSize = 10;
 
-    protected String orderBy = "id";
+    private String orderBy = "id";
 
-    protected String orderDir = Sort.DESC;
+    private String orderDir = Sort.DESC;
 
-    protected int offset = 1;
+    private int offset = 1;
 
-    protected int totalCount = -1;
+    private int totalCount = -1;
 
-    protected int totalPage;
+    private int totalPage;
 
     public PageRequest(){}
 
